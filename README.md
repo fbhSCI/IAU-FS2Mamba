@@ -1,2 +1,3 @@
 # IAU-FS2Mamba
 IAU-FS2Mamba: Inertial Adaptive Unfolding Fourier–S2Mamba for Hyperspectral Image Reconstruction
+IAU-FS2Mamba is coming soon...
